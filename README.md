@@ -2,8 +2,8 @@
 Back end - implement with PHP
 
 in this repository, you can review my work.
-i succeed to make the Back end with PHP.
-if its not working -> http://eavni93.com/job-test/index.php/
+I succeed to make the Back end with PHP.
+if it's not working -> http://eavni93.com/job-test/index.php/
 
 if you add to the URL “/fetch-tweets" it will load the word to the database,
 "affiliate" to table "first" with word and score columns.
